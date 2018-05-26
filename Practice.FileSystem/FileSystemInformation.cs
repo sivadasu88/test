@@ -10,8 +10,7 @@ namespace Practice.FileSystem
 	{
 		public void CopyDeleteMove()
 		{
-
-			string filename = "sravani_text.txt";
+					string filename = "sravani_text.txt";
 			string sourchepath = @"d:\FirstFile\MyTest";
 			string taretpath = @"D:\SecondFile\MyTest\TestFile";
 
